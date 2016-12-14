@@ -1,0 +1,10 @@
+# Site settings
+title: Lingfeinity
+email: cuilingfei@gmail.com
+description: Lingfei Cui's Personal Blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://Lingfeinity.com" # the base hostname & protocol for your site
+github_username:  lfcui
+disqus: Lingfeinity
+# Build settings
+markdown: kramdown
