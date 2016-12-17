@@ -17,8 +17,8 @@ Let $G_n$ be the least concave marjorant (LCM) of $F_n$, i.e., $G_n$ is the leas
 
 Note that first $G_n$ is concave, therefore its one-sided derivative always exists. $\hat{f}_n$ can also be defined as follows.
 
-\begin{equation}
-\hat{f}_n(x)=\inf_{w\le x}\sup_{s>w}\frac{\Omega(w)-\Omega(s)}{w-s}
-\end{equation}
+\[
+\hat{f}_n(x)=\frac{\Omega(w)-\Omega(s)}{w-s}
+\]
 
 Starting from its definition, we can derive certain properties that can be used to prove its consistency and asymptotic distributon. TBC.
