@@ -5,6 +5,9 @@ date: 2016-12-16 03:22:02
 permalink: /second-post.html
 ---
 
+<span class="image featured"><img src="/images/pic05.JPG" alt=""></span>
+
+
 Grenander estimator is a type of estimator that is first proposed in the field of survival analysis. It is the nonparametric maximum likelihood estimator (NPMLE) of non-increasing density functions defined on <span>$\mathbb{R}^+\cup \{0\}$</span>.
 
 Suppose $f$ is an non-increasing density defined on <span>$\mathbb{R}^+\cup \{0\}$</span>. Let $X_1$, $X_2$, $\ldots$, $X_n$ be an i.i.d. sample from $f$. Let $F_n(x)$ be the empirical cdf. Then
