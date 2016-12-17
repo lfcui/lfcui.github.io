@@ -10,4 +10,4 @@ permalink: /first-post.html
 A friend wrote me that "You know its (it's) true friendship when you meet them in the most uncomfortable situations and they are still cool with that."
 
 
-I guess true love is even when you meet each other in the down form, yet she/he still falls for you.
+To make an analogy, me: true love is even when you meet each other in the down form, yet she/he still falls for you.
